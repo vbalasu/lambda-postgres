@@ -1,0 +1,2 @@
+export AWS_PROFILE=trifacta_master_trial
+chalice deploy
